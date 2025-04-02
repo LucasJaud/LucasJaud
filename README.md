@@ -48,8 +48,6 @@
 
 
 <br />
-<br />
-<br />
 
 ###  My socials
 
