@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Radical",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "window.zoomLevel": 1,
+    "scm.compactFolders": false,
+}
