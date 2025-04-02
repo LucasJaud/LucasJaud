@@ -38,9 +38,27 @@
                               
 <br />
 <br />
+<br />
+<br />
 
 
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaud&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaud&langs_count=8&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<br />
+<br />
+<br />
+
+###  My socials
+
+<p align="center">
+
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/LP_jaud"><img width="34px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/lucas-jaud"><img width="34px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+          
+          
+</p>
