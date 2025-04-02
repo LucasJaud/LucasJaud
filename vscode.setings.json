@@ -1,8 +1,10 @@
 {
-    "workbench.colorTheme": "Radical",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
     "files.autoSave": "afterDelay",
     "git.autofetch": true,
     "window.zoomLevel": 1,
     "scm.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
 }
