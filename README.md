@@ -1,4 +1,11 @@
-## Hi there 👋
+# 🧑🏻‍💻 Lucas Jaud
+
+**`Full Stack Developer`**
+
+💻 Full Stack Developer | Back-End Focused
+🎓 Student of Internet Systems at the Federal Institute of Paraíba (IFPB)
+🚀 Passionate about technology, software development, and continuous learning
+
 
 <!--
 **LucasJaud/LucasJaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
