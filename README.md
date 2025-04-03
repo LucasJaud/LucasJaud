@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-💻 Full Stack Developer | Back-End Focused
+💻 Full Stack Developer | Back-End Focused/n
 🎓 Student of Internet Systems at the Federal Institute of Paraíba (IFPB)
 🚀 Passionate about technology, software development, and continuous learning
 
