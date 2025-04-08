@@ -50,12 +50,7 @@
 <br />
 
 ###  My socials
-<p align="center">
-
- ## &#8287;&#8287;&#8287;&#8287;&#8287;
- <!--   <a href="https://x.com/LP_jaud"><img width="34px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/></a> -->
+<p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/lucas-jaud/"><img width="34px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-          
-          
+  <a href="https://www.linkedin.com/in/lucas-jaud/"><img width="34px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>          
 </p>
