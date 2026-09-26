@@ -18,7 +18,7 @@
 
 ### 🧰 Languages and Tools
 
-<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
 
   <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
