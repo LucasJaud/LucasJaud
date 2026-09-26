@@ -36,6 +36,8 @@
 <img align="left" alt="aws"  width="30px" style="padding-right:10px; padding-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="aws"  width="30px" style="padding-right:10px; padding-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="php"  width="30px" style="padding-right:10px; padding-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="php"  width="30px" style="padding-right:10px; padding-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+
           
                               
 <br />
@@ -44,15 +46,15 @@
 <br />
 
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjaud&show_icons=true&theme=radical)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaud&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaud&layout=compact&theme=radical) -->
 
 
-<br />
+<!-- <br /> -->
 
 ###  My socials
 <p>
