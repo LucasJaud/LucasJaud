@@ -16,6 +16,9 @@
 
 ---
 
+###  My socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jaud)
+
 ### 🧰 Languages and Tools
 
 <div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
@@ -56,8 +59,4 @@
 
 <br /> 
 
-###  My socials
-<p>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/lucas-jaud/"><img width="34px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>          
-</p>
+
